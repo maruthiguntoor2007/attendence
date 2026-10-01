@@ -1,0 +1,6 @@
+{
+  "name": "CampusTrack - University Attendance & Exam Seating",
+  "description": "Student attendance analytics, safe-bunk predictor, live QR beacon check-in, leave & OD management, academic timetable, and digital exam hall tickets with indoor seating navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
